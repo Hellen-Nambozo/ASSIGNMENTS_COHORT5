@@ -4,13 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HELLEN'S</title>
+<style>
+body{
+background-image:url("banner.jpg")
+}
+p{opacity:40%
+}
+</style>
 </head>
 <body>
     <div class="header">
         <header>
            <h1>HELLEN'S RESTAURANT</h1> 
         
-        <img src="./images/banner.jpg" alt="YUMMY" height="120px" width="150px"/>
+        <img src="./banner.jpg" alt="YUMMY" height="120px" width="150px"/>
        </header>
 </div>
     <div>
@@ -18,12 +25,12 @@
     </div>
     <div class="About Us">
         <h1>About Us</h1>
-            <p>Chicken</p>
-            <p>We offer quality meals</p>
-            <p>Meat</p>
-            <p>Greens</p>
-            <p>Juice</p>
-            <p>Snacks</p> 
+            <p style="color:maroon">Tasty juice is available in variety</p>
+            <p style="color:green">We offer quality meals</p>
+            <p style="color:blue">We offer discounts where applicable</p>
+            <p style="color:Yellow">cocktails and smoothies available too</p>
+            <p style="color:blue">We do deliveries at a small price</p>
+            <p style="color:red">contact us <br> 0701479009 <br>nambozoh5@gmail.com</p> 
     </div>
  <footer>
 <P style="color: darkblue;">
